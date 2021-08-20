@@ -5,4 +5,4 @@
 ・評価指標はFBetaScoreのため、スコアの高いものほど優秀なモデルとなります。
 
 ### Best Score
-・[lgb 0.37](https://www.kaggle.com/yshiml/systematic-lgb?scriptVersionId=72328942)
+・[lgb 0.3748669](https://www.kaggle.com/yshiml/systematic-lgb?scriptVersionId=72328942)
