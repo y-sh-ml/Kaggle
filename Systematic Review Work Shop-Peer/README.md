@@ -1,8 +1,8 @@
 ### Competition
-・[Titanic - Machine Learning from Disaster](https://www.kaggle.com/c/titanic)
+・[Systematic Review Work Shop-Peer Support Group (SRWS-PSG)](https://signate.jp/competitions/471)
 
 ### Evaluation
-・評価指標はAccuracyのため、スコアの高いものほど優秀なモデルとなります。
+・評価指標はFBetaScoreのため、スコアの高いものほど優秀なモデルとなります。
 
 ### Best Score
-・[lgb+xgb+logreg 0.78708](https://www.kaggle.com/yshiml/titanic-lgb-xgb-logreg?scriptVersionId=57594501)
+・[lgb 0.37](https://www.kaggle.com/yshiml/systematic-lgb?scriptVersionId=72328942)
