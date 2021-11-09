@@ -5,4 +5,4 @@
 ・評価指標はAUCのため、スコアが高いものほど良いモデルとなります。
 
 ### Best Score
-・[xgb 0.75235](https://www.kaggle.com/yshiml/homecredit-xgb?scriptVersionId=64714005)
+・[lgb+xgb+logreg 0.75276](https://www.kaggle.com/yshiml/homecredit-lgb-xgb-logreg)
