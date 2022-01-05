@@ -5,4 +5,4 @@
 ・スコアが高いものほど良いモデルとなります。
 
 ### Best Score
-・[naive](https://www.kaggle.com/yshiml/jigsaw-baseline-naive-bayes?scriptVersionId=84450883)
+・[naive 0.768](https://www.kaggle.com/yshiml/jigsaw-baseline-naive-bayes?scriptVersionId=84450883)
