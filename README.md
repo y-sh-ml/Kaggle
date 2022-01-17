@@ -6,3 +6,5 @@
 ### Kaggle Notebook
 GitHubでは読み込みに時間がかかるため<br>
 各コンペの補足に、Kaggle NotebookのURLも貼ってあります。
+
+
