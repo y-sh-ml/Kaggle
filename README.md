@@ -8,4 +8,4 @@ GitHubでは読み込みに時間がかかるため<br>
 各コンペの補足に、Kaggle NotebookのURLも貼ってあります。
 
 ### Rank
-・Notebooks Contributor：🥉×1
+・Notebooks Contributor：🥉× 1
