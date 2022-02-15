@@ -1,5 +1,5 @@
 ### File Name
-ファイル名の数値は、KaggleにSubmitして得たPublic Scoreになります。
+使用したモデルとPublic Scoreが記載されています。
 
 ### Rank
 ・Notebooks Contributor：🥉× 1
