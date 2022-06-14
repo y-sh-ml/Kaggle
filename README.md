@@ -3,7 +3,7 @@
 
 ### Rank
 ・Competitions Contributor：🥉<br>
-・Notebooks Contributor：🥈🥉🥉
+・Notebooks Contributor：🥈🥈🥉
 
 ### Acount
 ・[Zoo](https://www.kaggle.com/yshiml)
